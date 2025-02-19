@@ -1,4 +1,4 @@
-# Azure SQL Dapper Net 8 MVC
+# .Net 8 MVC application with Azure SQL and Dapper
 
 ## Create an Azure SQL Database
 
