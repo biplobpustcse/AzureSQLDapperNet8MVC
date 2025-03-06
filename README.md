@@ -44,3 +44,4 @@ Get Connection String from Azure SQL Database
 
 Creating a New Project in Visual Studio
 ![image](https://github.com/user-attachments/assets/599e4296-c8d1-4ece-970b-5b7395e1e574)
+
